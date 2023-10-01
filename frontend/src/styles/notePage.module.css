@@ -1,0 +1,9 @@
+.notePage {
+  min-width: 150px;
+}
+
+.notePage:hover {
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transition: 0.1s ease-in-out;
+}

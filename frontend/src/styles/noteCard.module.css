@@ -1,0 +1,14 @@
+.cardBody {
+  background-color: #f8f0e5;
+  color: #191717;
+  height: 150px;
+  overflow: hidden;
+}
+
+.cardText {
+  white-space: pre-line;
+}
+
+.cardFooter {
+  background-color: #eadbc8;
+}
