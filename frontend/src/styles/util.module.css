@@ -2,3 +2,7 @@
   display: block;
   margin: auto;
 }
+
+.TextCenter {
+  text-align: center;
+}
